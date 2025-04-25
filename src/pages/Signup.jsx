@@ -1,1 +1,1 @@
-// Page d'inscription
+// Page d'inscription Figma

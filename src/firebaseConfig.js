@@ -1,1 +1,1 @@
-// Remplis ce fichier avec tes clés Firebase
+// Fichier Firebase vide à compléter

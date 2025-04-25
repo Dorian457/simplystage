@@ -1,1 +1,1 @@
-// PrivateRoute ici
+// Composant de route privée vide

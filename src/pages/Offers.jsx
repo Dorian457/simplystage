@@ -1,1 +1,1 @@
-// Liste des offres
+// Page offres

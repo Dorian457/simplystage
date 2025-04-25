@@ -1,1 +1,1 @@
-// AuthContext ici
+// Contexte d'authentification vide
